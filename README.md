@@ -33,7 +33,7 @@ Not just theory. **8 tools shipped. 14 real AI incidents cataloged. 7 CTF levels
 
 ```
 AI_ATTACK_SURFACE/
-├── INPUT_LAYER/ 
+├── INPUT_LAYER/
 │   ├── Prompt Injection ──────────── direct · indirect · multi-turn
 │   ├── Jailbreak Research ─────────── role-play · encoding · persona injection
 │   └── Context Window Abuse ──────── flooding · distraction · RAG injection
@@ -69,9 +69,9 @@ AI_ATTACK_SURFACE/
 
 ## `TA0006` — Exfiltration
 
-Building an AI red team? Evaluating LLM deployments? Looking for someone who maps attacks the way adversaries actually think?
+I'm looking for a full-time AI security role — red team, safety evaluation, or LLM research. I build the tools, track the incidents, and document the attacks. Based in Maryland, willing to relocate, open to remote.
 
-**[cybergemchick.github.io](https://cybergemchick.github.io)** · Maryland · [LinkedIn](https://www.linkedin.com/in/cybergemchick)
+**[cybergemchick.github.io](https://cybergemchick.github.io)** · [LinkedIn](https://www.linkedin.com/in/cybergemchick)
 
 ---
 
