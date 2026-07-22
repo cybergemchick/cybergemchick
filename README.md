@@ -33,7 +33,7 @@ Not just theory. **8 tools shipped. 14 real AI incidents cataloged. 7 CTF levels
 
 ```
 AI_ATTACK_SURFACE/
-├── INPUT_LAYER/
+├── INPUT_LAYER/ 
 │   ├── Prompt Injection ──────────── direct · indirect · multi-turn
 │   ├── Jailbreak Research ─────────── role-play · encoding · persona injection
 │   └── Context Window Abuse ──────── flooding · distraction · RAG injection
