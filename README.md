@@ -1,78 +1,28 @@
-<!-- CYBERGEMCHICK | AI RED TEAM | github.com/cybergemchick -->
+# CyberGemChick — AI Red Team
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  OPERATOR     : CyberGemChick                                        ║
-║  FRAMEWORK    : MITRE ATLAS  |  OWASP LLM Top 10  |  NIST AI RMF   ║
-║  LOCATION     : Maryland, USA                                        ║
-║  STATUS       : ██████████████████████░░  ACTIVE — OPEN TO ROLES    ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+**AI Security | Red Team | Safeguards Enforcement**
 
-I find what adversaries find in LLMs, agentic pipelines, and ML systems — before deployment.
-Not just theory. **8 tools shipped. 14 real AI incidents cataloged. 7 CTF levels documented.**
+I work at the intersection of offensive security and AI systems — finding how large language models can be misused before threat actors do.
 
 ---
 
-## `TA0003` — Findings
+### What I build here
 
-| ID | Project | What It Does |
-|----|---------|-------------|
-| [FIND-001](https://github.com/cybergemchick/AIethicsthreatmodel) | **AI Ethics & Security Dashboard** | End-to-end platform: ATLAS threat modeling, STRIDE analysis, bias auditing, EU AI Act mapping, real-time alerting |
-| [FIND-002](https://github.com/cybergemchick/llm-scanner) | **OWASP LLM Top 10 Scanner** | CLI tool that tests LLM APIs against all 10 OWASP categories — OpenAI, Anthropic, Ollama |
-| [FIND-003](https://github.com/cybergemchick/gemctf) | **GemCTF — LLM Security CTF** | 5-level Gandalf-style CTF teaching the full prompt injection taxonomy |
-| [FIND-004](https://github.com/cybergemchick/adversarial-vision) | **Adversarial Vision Attacks** | FGSM + PGD on ResNet-50, visual prompt injection for multimodal LLMs (AML.T0031) |
-| [FIND-005](https://github.com/cybergemchick/ai-bias-audit) | **AI Bias Audit Notebook** | Counterfactual fairness testing across demographics — ANOVA, eta-squared, SHAP |
-| [FIND-006](https://github.com/cybergemchick/ai-threat-intel) | **AI Security Incident Tracker** | 14 real AI incidents, ATLAS-mapped, CLI-queryable — prompt injection to deepfake fraud |
-| [FIND-007](https://github.com/cybergemchick/ctf-writeups) | **CTF Analysis — Lakera Gandalf** | Full walkthrough of all 7 levels with defense analysis and production recommendations |
-| [FIND-008](https://github.com/cybergemchick/redteam-report) | **AI Red Team Report Template** | Professional DOCX engagement template — findings, ATLAS coverage, TLP classification |
+| Repo | What it is |
+|---|---|
+| [ai-abuse-classifier](https://github.com/cybergemchick/ai-abuse-classifier) | Prompt classifier for detecting malicious cyber operations — maps to OWASP LLM Top 10 + MITRE ATLAS |
+| [ai-threat-intel](https://github.com/cybergemchick/ai-threat-intel) | 22 curated AI/ML security incidents with ATLAS technique mapping and CLI query tool |
+| [llm-scanner](https://github.com/cybergemchick/llm-scanner) | Automated OWASP LLM Top 10 scanner — prompt injection, system prompt extraction, jailbreak testing |
+| [gemctf](https://github.com/cybergemchick/gemctf) | 5-level LLM security CTF — designed to teach prompt injection and jailbreak defenses |
 
 ---
 
-## `TA0002` — Tactics, Techniques & Procedures
+### Background
 
-```
-AI_ATTACK_SURFACE/
-├── INPUT_LAYER/
-│   ├── Prompt Injection ──────────── direct · indirect · multi-turn
-│   ├── Jailbreak Research ─────────── role-play · encoding · persona injection
-│   └── Context Window Abuse ──────── flooding · distraction · RAG injection
-│
-├── MODEL_LAYER/
-│   ├── MITRE ATLAS Threat Modeling
-│   ├── Adversarial Example Crafting ─ FGSM · PGD · visual injection
-│   ├── Membership Inference + Training Poisoning
-│   └── Bias & Fairness Auditing ───── XAI · SHAP · disparate impact
-│
-├── OUTPUT_LAYER/
-│   ├── Harmful Output Testing ─────── policy bypass · refusal evasion
-│   ├── OWASP LLM Top 10 Assessment
-│   └── NIST AI RMF · EU AI Act compliance mapping
-│
-└── AGENTIC_LAYER/
-    ├── Tool-Use Exploitation ─────── code exec · API abuse
-    ├── Multi-Agent Trust Boundaries
-    └── RAG Pipeline Poisoning ─────── document injection · retrieval manipulation
-```
+- **Certifications:** CASP+ (DoD 8570 IAT III) · CEH (DoD 8570 CSSP) · CompTIA SecAI+ (CY0-001) · C|RAGE · Anthropic Academy
+- **Frameworks:** MITRE ATLAS · OWASP LLM Top 10 · NIST AI RMF · DoD 8570/8140
+- **Focus areas:** Prompt injection · Adversarial ML · Jailbreak research · AI policy enforcement · Agentic system security
 
 ---
 
-## `TA0005` — Impact
-
-| | |
-|--|--|
-| 🔴 **BUILDING** | AI Red Team certification — labs and coursework active |
-| 🔴 **RESEARCHING** | Agentic AI trust boundary exploitation (FIND-009 in progress) |
-| ✅ **OPEN** | Seeking AI security roles — red team · safety eval · LLM research |
-
----
-
-## `TA0006` — Exfiltration
-
-I'm looking for a full-time AI security role — red team, safety evaluation, or LLM research. I build the tools, track the incidents, and document the attacks. Based in Maryland, willing to relocate, open to remote.
-
-**[cybergemchick.github.io](https://cybergemchick.github.io)** · [LinkedIn](https://www.linkedin.com/in/cybergemchick)
-
----
-
-<sub>MITRE ATLAS · OWASP LLM Top 10 · NIST AI RMF · STRIDE · EU AI Act</sub>
+*Targeting AI Red Team and AI Safeguards roles — private sector and cleared government.*
