@@ -2,7 +2,7 @@
 
 **AI Security | Red Team | Safeguards Enforcement**
 
-I work at the intersection of offensive security and AI systems, finding how large language models can be misused before threat actors do.
+I work at the intersection of offensive security and AI systems. I build and use adversarial testing tools to find how language models can fail or be misused.
 
 ---
 
