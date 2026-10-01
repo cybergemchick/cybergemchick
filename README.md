@@ -10,9 +10,9 @@ I work at the intersection of offensive security and AI systems, finding how lar
 
 | Repo | What it is |
 |---|---|
-| [ai-abuse-classifier](https://github.com/cybergemchick/ai-abuse-classifier) | Prompt classifier for detecting malicious cyber operations, mapped to OWASP LLM Top 10, MITRE ATLAS and MITRE ATT&CK |
-| [ai-threat-intel](https://github.com/cybergemchick/ai-threat-intel) | 27 sourced AI/ML security incidents (2016 to 2025) mapped to MITRE ATLAS v5.6, with a CLI query tool and validation tests |
-| [llm-scanner](https://github.com/cybergemchick/llm-scanner) | Canary-based scanner covering 7 of the OWASP LLM Top 10 categories, including prompt injection and system prompt extraction |
+| [ai-abuse-classifier](https://github.com/cybergemchick/ai-abuse-classifier) | Prompt classifier for detecting malicious cyber operations, mapped to OWASP LLM Top 10, MITRE ATLAS, and MITRE ATT&CK |
+| [ai-threat-intel](https://github.com/cybergemchick/ai-threat-intel) | 27 sourced AI security incidents mapped to MITRE ATLAS and OWASP LLM Top 10 (2025).  CLI queryable |
+| [llm-scanner](https://github.com/cybergemchick/llm-scanner) | Canary-based scanner covering 7 of the OWASP LLM Top 10 (2025) categories.  Supports OpenAI, Anthropic, and Ollama |
 | [gemctf](https://github.com/cybergemchick/gemctf) | 5-level LLM security CTF that teaches prompt injection and jailbreak defenses |
 
 ---
